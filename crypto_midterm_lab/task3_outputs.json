@@ -1,0 +1,5 @@
+{
+  "sha256(data.txt)": "35dbda80a6da07e03e7d130a5c2faca79af537c449facf45748c61388d2544b9",
+  "hmac(data.txt)": "e550e820ecb5c998a1dadf897085dd60c059c3347d26335d7a6fff85d4d3416a",
+  "hmac(data_modified.txt)": "fdfe61727493fd3deba11db4a43e8bd26fc2528d4451c19c9ee2f717381cf3e4"
+}
